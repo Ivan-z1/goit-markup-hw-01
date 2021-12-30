@@ -2,10 +2,19 @@
 .link:hover,
 .link:focus {
     opacity: 1;
+    color: gold;
 }
 
+/* цвет основного массива текста #212121 */
+/* вторичный текст #757575 */
+/* синий цвет акцент  #2196F3 */
+/* белый #FFFFFF */
+/*  rgba(255, 255, 255, 0.6  */
 
 
+.ul {
+    marker-start: none;
+}
 
 .site-naw.link.current {
 color= var(--accent-color)}
