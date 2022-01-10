@@ -12,19 +12,56 @@ font-family: Raleway;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
-/* identical to box height */
-
 letter-spacing: 0.03em;
 }
+
 .accent {
     color: #2196F3;
 }
 
-.link:hover,
-.link:focus {
-    opacity: 1;
-    color: gold;
+/* nav */
+
+.list {
+    list-style: none;
 }
+.nav-link:hover,
+.nav-link:focus {
+color: #2196F3;
+}
+.link {    
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121; 
+}
+.links {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #757575;
+}
+
+/* section-one */
+
+.title {
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #2F303A
+}
+
+.texts {
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+
 
 /* цвет основного массива текста #212121 */
 /* вторичный текст #757575 */
