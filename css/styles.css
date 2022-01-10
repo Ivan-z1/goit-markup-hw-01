@@ -1,3 +1,24 @@
+body {
+    background: #FFFFFF;
+    color:  #212121;
+    font-family: Roboto, sans-serif;   
+}
+
+/* logo */
+
+.logo.nav-link {
+color: #212121;
+font-family: Raleway;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+/* identical to box height */
+
+letter-spacing: 0.03em;
+}
+.accent {
+    color: #2196F3;
+}
 
 .link:hover,
 .link:focus {
@@ -9,7 +30,11 @@
 /* вторичный текст #757575 */
 /* синий цвет акцент  #2196F3 */
 /* белый #FFFFFF */
-/*  rgba(255, 255, 255, 0.6  */
+/* rgba(255, 255, 255, 0.6  */
+/* background: #FFFFFF;  осн. белый*/
+/* background: #2F303A; fon h1, futer */
+
+
 
 
 .ul {
