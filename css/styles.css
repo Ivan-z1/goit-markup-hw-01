@@ -59,7 +59,12 @@ background: #2F303A
 .texts {
     color: #FFFFFF;
     background: #2196F3;
-}
+    }
+    .nav-links:hover,
+    .nav-links:focus {
+     color: #212121;
+    }
+
 
 
 
